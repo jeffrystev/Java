@@ -9,6 +9,6 @@
     </head>
 
     <body>
-        <p>Hello! This is the default welcome page for a Spring Web MVC project.</p>
+        <p>Hello! This is Jeff.</p>
     </body>
 </html>
