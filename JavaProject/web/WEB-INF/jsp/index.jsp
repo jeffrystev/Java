@@ -9,6 +9,6 @@
     </head>
 
     <body>
-        <p>Hello! This is Jeffry and i am smart/p>
+        <p>Hello! This is Jeffry/p>
     </body>
 </html>
